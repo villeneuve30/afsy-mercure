@@ -1,0 +1,4 @@
+# .gitignore
+###> mercure ###
+updates.db
+###< mercure ###
